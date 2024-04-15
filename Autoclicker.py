@@ -87,11 +87,9 @@ def main():
 
     def perform_clicks(num_loops, interval, point):
         global stop_flag
-        for i in range(num_loops):
-            perform_steps(interval, point, num_loops)
-            if stop_flag:
-                loop_label.config(text="Auto-clicking completed.")
-                break
+        perform_steps(interval, point, num_loops)
+        if stop_flag:
+            loop_label.config(text="Auto-clicking completed.")
 
         if not stop_flag:
             loop_label.config(text="Auto-clicking completed.")
