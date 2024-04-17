@@ -1,4 +1,4 @@
-('C:\\Users\\Drian\\Desktop\\3rd2nd\\Pixels\\PixelCookingAutoClick\\build\\Autoclicker\\PYZ-00.pyz',
+('C:\\Users\\Drian\\Desktop\\3rd2nd\\Pixels\\pixelcookingautoclick\\build\\Autoclicker\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\Drian\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\__future__.py',
    'PYMODULE'),
